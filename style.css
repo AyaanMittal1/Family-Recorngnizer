@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(to bottom, red 37%, #f54242 100%);
+    color:darkturquoise;
+}
+#light{
+    background-color: darkred;
+}
